@@ -1,2 +1,2 @@
 # hello-world
-learning 
+learning how to code. Getting better every day. 
